@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>朱修昊</string>
+		<key>phone</key>
+		<string>158****0886</string>
+		<key>location</key>
+		<string>河北张家口市桥东区城区</string>
+		<key>address</key>
+		<string>富强路河北北方学院（东校区）教学楼</string>
+		<key>tag</key>
+		<string>家</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>朱修</string>
+		<key>phone</key>
+		<string>158****0886</string>
+		<key>location</key>
+		<string>河北张家口市桥东区城区</string>
+		<key>address</key>
+		<string>富强路河北北方学院（东校区）教学楼</string>
+		<key>tag</key>
+		<string>公司</string>
+	</dict>
+</array>
+</plist>
